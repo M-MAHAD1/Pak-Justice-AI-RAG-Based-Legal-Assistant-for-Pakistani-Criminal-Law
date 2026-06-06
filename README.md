@@ -73,7 +73,7 @@ The project is built using a decoupled **Three-Tier Architecture** to separate c
 ## 🌍 Demo & Deployment
 
 The core conversational AI engine is deployed and ready for interaction:
-> 🔗 **Try the Live Bot on Hugging Face:** [[Your Hugging Face Space Link Here](YOUR_HUGGING_FACE_SPACE_LINK_HERE)]
+> 🔗 **Try the Live Bot on Hugging Face:** [[Your Hugging Face Space Link Here]("https://mmahad01-pak-justice-ai.hf.space")]
 
 ---
 
