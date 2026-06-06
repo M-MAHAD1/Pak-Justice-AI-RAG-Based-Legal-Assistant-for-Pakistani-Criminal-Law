@@ -221,8 +221,3 @@ We express our deepest gratitude to our project supervisor, **Dr. Shahzad Husain
 * **Meta & Google** for lowering boundaries with open-weights and accessible LLMs/embeddings models.
 
 ```
-
----
-*Note: Jab aap apni repository update karein, toh bas upar diye gaye markdown code mein `YOUR_HUGGING_FACE_SPACE_LINK_HERE` ko apne real link se replace kar dijiyega.*
-
-```
