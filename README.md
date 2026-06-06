@@ -12,7 +12,7 @@ markdown
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-16+-green.svg)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-18+-61DAFB.svg)](https://reactjs.org/)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-yellow)](YOUR_HUGGING_FACE_SPACE_LINK_HERE)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-yellow)](https://mmahad01-pak-justice-ai.hf.space)
 
 </div>
 
@@ -73,7 +73,7 @@ The project is built using a decoupled **Three-Tier Architecture** to separate c
 ## 🌍 Demo & Deployment
 
 The core conversational AI engine is deployed and ready for interaction:
-> 🔗 **Try the Live Bot on Hugging Face:** [[Your Hugging Face Space Link Here]("https://mmahad01-pak-justice-ai.hf.space")]
+> 🔗 **Try the Live Bot on Hugging Face:** [Pak Justice AI Space](https://mmahad01-pak-justice-ai.hf.space)
 
 ---
 
